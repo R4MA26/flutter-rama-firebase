@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "536153284914",
+    "project_id": "rama-firebase",
+    "storage_bucket": "rama-firebase.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:536153284914:android:f48582a04a86d7c29db72b",
+        "android_client_info": {
+          "package_name": "com.example.rama_f"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "536153284914-unv827qvigu6bb8i7u9p162sa9j29qus.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCJFKTpc1DQ2kqTkTFmrLJqLtMdtmk-A_0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "536153284914-unv827qvigu6bb8i7u9p162sa9j29qus.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
