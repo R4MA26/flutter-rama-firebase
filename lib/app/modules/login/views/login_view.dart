@@ -30,6 +30,16 @@ class LoginView extends GetView<LoginController> {
               decoration: const InputDecoration(labelText: "Password"),
             ),
             const SizedBox(
+              height: 10,
+            ),
+            Align(
+              alignment: Alignment.centerRight,
+              child: TextButton(
+                onPressed: () => Get.toNamed(Routes.RESET_PASSWORD),
+                child: const Text("Reset Password"),
+              ),
+            ),
+            const SizedBox(
               height: 50,
             ),
             ElevatedButton(
